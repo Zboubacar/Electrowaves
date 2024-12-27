@@ -1,0 +1,4 @@
+N_var,          Value,   Desc
+N_components,   100,     Number of components in JSP spectrum
+Hs,             1,       Significant wave height (m) 
+Tp,             10,      Peak period (s)
